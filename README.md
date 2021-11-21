@@ -1,4 +1,4 @@
-<h1 align="center">JavaScript Calculator (test assignment)</h1>
+<h1 align="center">JavaScript Scientific Calculator </h1>
 
 > Test Assignment for MailerQ. Technologies used: HTML, LESS, ES6, Jest, Webpack.\
 > Demo: <a href="https://js-calculator-cyan.vercel.app">Watch online</a>
